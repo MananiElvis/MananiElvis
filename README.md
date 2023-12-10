@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MananiElvis
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...javascript language
+- 👀 I’m a frontend web dev.
 - 💞️ I’m looking to collaborate on ...web
 - 📫 How to reach me ...768100332
 
